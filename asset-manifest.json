@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2859c38c.css",
-    "main.js": "/static/js/main.88ebca7b.js",
+    "main.css": "/static/css/main.08e3c93c.css",
+    "main.js": "/static/js/main.55a910de.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/me4.jpg": "/static/media/me4.1f5befcbc106b8cc1868.jpg",
@@ -14,21 +14,21 @@
     "static/media/netflix_project.png": "/static/media/netflix_project.db61247076a5a01c5620.png",
     "static/media/kiri_project.png": "/static/media/kiri_project.9bfd756a87a34d4d77f8.png",
     "static/media/yahtzee_project.png": "/static/media/yahtzee_project.a0311ef43f0e4d5e9b5f.png",
-    "static/media/Kunal_Rajput(Resume).pdf": "/static/media/Kunal_Rajput(Resume).532cc3a0f4cdd3b0a6f3.pdf",
     "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/stock_project.png": "/static/media/stock_project.bf6cf2c2c3a3fd835c98.png",
+    "static/media/Kunal_Rajput(Resume).pdf": "/static/media/Kunal_Rajput(Resume).3648eeac4f2a83c8534a.pdf",
     "static/media/ttt_project.png": "/static/media/ttt_project.1d5dc8a4e3553abf0938.png",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/kunal_logo.png": "/static/media/kunal_logo.a534b335f5ad9056b239.png",
     "static/media/pre.svg": "/static/media/pre.2cbff4150a94f768fa3c.svg",
     "index.html": "/index.html",
-    "main.2859c38c.css.map": "/static/css/main.2859c38c.css.map",
-    "main.88ebca7b.js.map": "/static/js/main.88ebca7b.js.map",
+    "main.08e3c93c.css.map": "/static/css/main.08e3c93c.css.map",
+    "main.55a910de.js.map": "/static/js/main.55a910de.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2859c38c.css",
-    "static/js/main.88ebca7b.js"
+    "static/css/main.08e3c93c.css",
+    "static/js/main.55a910de.js"
   ]
 }
